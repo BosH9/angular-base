@@ -1,5 +1,5 @@
 {
-  "name": "ecomm",
+  "name": "angular-base",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:ecomm": "node dist/ecomm/server/server.mjs"
+    "serve:ssr:angular-base": "node dist/angular-base/server/server.mjs"
   },
   "prettier": {
     "overrides": [
